@@ -1,4 +1,4 @@
-#Sorteando um item na lista
+#Sorteando uma ordem na lista
 
 import random
 
@@ -9,6 +9,6 @@ a4 = str(input("Quarto aluno: "))
 
 lista = [a1, a2, a3, a4]
 
-sorteio = random.choice(lista)
+random.shuffle(lista)
 
-print(f"O aluno escolhido Foi {sorteio}")
+print(f"A ordem de apresentação será {lista}")
