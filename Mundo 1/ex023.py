@@ -1,3 +1,5 @@
+#Separando digitos de um numero 
+
 num = int(input("Digite um número: "))
 
 u = num // 1 % 10
