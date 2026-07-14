@@ -1,3 +1,5 @@
+# Aumento de salario
+
 salario = float(input("Qual é o o salário do seu funcionário? R$"))
 
 aumento = salario

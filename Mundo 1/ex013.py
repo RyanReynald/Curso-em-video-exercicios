@@ -1,3 +1,6 @@
+#Reajuste de salario
+
+
 salario = float(input("Qual é o salário do funcionario? R$"))
 
 novo = salario + (salario * 15 /100)

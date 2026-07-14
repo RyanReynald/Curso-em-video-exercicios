@@ -1,3 +1,5 @@
+#Aluguel de carros
+
 dias = int(input("Quantos dias alugados? "))
 km = float(input("Quantos km rodados? "))
 
